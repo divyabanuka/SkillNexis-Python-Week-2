@@ -82,28 +82,6 @@ The system stores:
 
 ---
 
-## 📂 Project Structure
-
-```text
-SkillNexis-Python-Week-2/
-│
-├── README.md
-│
-├── Assignments/
-│   ├── Assignment-1-Contact-Book/
-│   │   └── contact_book.py
-│   │
-│   ├── Assignment-2-Word-Counter/
-│   │   └── word_counter.py
-│   │
-│   └── Assignment-3-JSON-File-Reader/
-│       └── json_reader.py
-│
-└── Mini-Project/
-    └── Student-Management-System/
-        ├── student_management.py
-        └── students.csv
-```
 
 ## 🎯 Learning Outcome
 
