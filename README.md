@@ -103,10 +103,22 @@ SkillNexis-Python-Week-2/
     └── Student-Management-System/
         ├── student_management.py
         └── students.csv
+```
 
+## 🎯 Learning Outcome
 
-👩‍💻 Author
+Through these assignments and the mini project, I gained practical experience with Python data structures, dictionaries, file handling, CSV and JSON processing, exception handling, and CRUD operations. I also learned how to organize and manage Python projects using GitHub.
 
-Divya Banuka
+---
+
+## 👩‍💻 Author
+
+**Divya Banuka**
 
 B.Tech — Artificial Intelligence & Machine Learning
+
+---
+
+## 📌 Course
+
+**SkillNexis Python Programming Course — Week 2**
