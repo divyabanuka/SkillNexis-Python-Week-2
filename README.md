@@ -81,7 +81,6 @@ The system stores:
 - GitHub
 
 ---
-
 ## 📂 Project Structure
 
 ```text
