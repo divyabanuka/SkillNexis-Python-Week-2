@@ -28,6 +28,8 @@ A dictionary-based contact book that allows users to:
 
 **File:** `Assignments/Assignment-1-Contact-Book/contact_book.py`
 
+---
+
 ### 2. 📝 Word Counter from Text File
 
 A Python program that reads a text file and counts:
@@ -38,9 +40,11 @@ A Python program that reads a text file and counts:
 
 **File:** `Assignments/Assignment-2-Word-Counter/word_counter.py`
 
+---
+
 ### 3. 📄 JSON File Reader
 
-A Python program that loads JSON data and displays it in a formatted, readable format.
+A Python program that loads JSON data and displays it in a formatted and readable format.
 
 **File:** `Assignments/Assignment-3-JSON-File-Reader/json_reader.py`
 
@@ -81,7 +85,6 @@ The system stores:
 - GitHub
 
 ---
-
 
 ## 🎯 Learning Outcome
 
