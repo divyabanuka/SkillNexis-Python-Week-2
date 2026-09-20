@@ -81,6 +81,7 @@ The system stores:
 - GitHub
 
 ---
+
 ## 📂 Project Structure
 
 ```text
@@ -102,7 +103,7 @@ SkillNexis-Python-Week-2/
     └── Student-Management-System/
         ├── student_management.py
         └── students.csv
-```
+
 
 👩‍💻 Author
 
